@@ -1,11 +1,11 @@
 using System;
-namespace Git
+namespace git
 {
-    class program 
+    class csharp 
     {
        static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello World!");
         }
     }
 
